@@ -23,6 +23,7 @@ What's Here
     MINI.
 *   :doc:`specifications` - Contains specification information for the BUNKER MINI and related
     hardware.
+*   :doc:`downloads` - Downloadable content related to the BUNKER MINI.
 
 Table of Contents:
 ==================
@@ -34,3 +35,4 @@ Table of Contents:
     getting_started.rst
     operation.rst
     specifications.rst
+    downloads.rst
